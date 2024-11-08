@@ -79,6 +79,25 @@ export const networks = {
       symbol: "WBNB"
     }
   },
+  1946: {
+    name: "Soneium Minato",
+    rpc: "https://rpc.minato.soneium.org",
+    chainId: 1946,
+    explorer: "https://explorer-testnet.soneium.org/",
+    color: "#ff00e2",
+    multicall: "0x52475EDc1f8F334e6031Be86a7561B38C94fa11d",
+    fromBlock: ,
+    baseCurrency: {
+      decimals: 18,
+      name: "ETH",
+      symbol: "ETH"
+    },
+    wrappedToken: {
+      address: "0x4200000000000000000000000000000000000006",
+      name: "Wrapped ETH",
+      symbol: "WETH"
+    }
+  },
   34: {
     name: "SCAI Mainnet",
     rpc: "https://mainnet-rpc.scai.network/",
