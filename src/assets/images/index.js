@@ -1,4 +1,4 @@
-import ETH from './eth.png'
+import ETH from './Soneium2.png'
 import BNB from './bnb.png'
 
 export const CURRENCY = {
@@ -14,4 +14,5 @@ export const CURRENCY = {
   42: ETH,
   56: BNB,
   97: BNB,
+  1946: ETH,
 }
