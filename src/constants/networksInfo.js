@@ -86,7 +86,7 @@ export const networks = {
     explorer: "https://explorer-testnet.soneium.org/",
     color: "#ff00e2",
     multicall: "0x52475EDc1f8F334e6031Be86a7561B38C94fa11d",
-    fromBlock: ,
+    fromBlock: 864431,
     baseCurrency: {
       decimals: 18,
       name: "ETH",
